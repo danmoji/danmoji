@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @danmoji
 - 👀 I’m interested in Typescript, Vue 3, Laravel
 - 🌱 I’m currently learning Java and Spring
-- 📫 You can reach me on beberosak@gmail.com
