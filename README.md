@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @danmoji
-- 👀 I’m interested in Typescript, Vue 3, Laravel
-- 🌱 I’m currently learning Java and Spring
+- 👀 I’m interested in Typescript, Vue 3, React
+- 🌱 I’m currently learning C# and .NET
